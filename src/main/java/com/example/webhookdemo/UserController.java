@@ -8,7 +8,7 @@ public class UserController {
 
     @GetMapping("/user")
     public String user() {
-        return "jigar kakadiya - software engineer LO - prama";
+        return "jigar kakadiya - software engineer L1 - prama";
     }
 
     @GetMapping("/")
